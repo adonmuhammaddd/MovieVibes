@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MovieVibes</string>
+
+    <string name="no_overview">There is no overview for </string>
+    <string name="rating">Rating : </string>
+    <string name="release">Release : </string>
+    <string name="total">Total </string>
+    <string name="edt_search_hint">Search . . .</string>
+    <string name="btn_search">Search</string>
+    <string name="title_hint">Title</string>
+    <string name="release_text">Release :</string>
+    <string name="vote_text">Total :</string>
+    <string name="rating_text">Rating :</string>
+    <string name="overview_hint">Overview</string>
+    <string name="tv_title">None</string>
+    <string name="tv_release">Release : -</string>
+    <string name="tv_vote_a">Rating : 0%</string>
+    <string name="tv_overview">There is no overview</string>
+</resources>
